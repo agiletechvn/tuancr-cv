@@ -1,0 +1,11 @@
+intro: "You can list your publications in this section. Lorem ipsum dolor
+  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+publications:
+  - paper:
+    title: Applying Genetic Algorithms for Clustering Problem 
+    authors: me, Minh Vương Nguyen 
+    conference: https://www.academia.edu/5382033/TR%C6%AF%E1%BB%9CNG_%C4%90%E1%BA%A0I_H%E1%BB%8CC_B%C3%81CH_KHOA_H%C3%80_N%E1%BB%98I_VI%E1%BB%86N_C%C3%94NG_NGH%E1%BB%86_TH%C3%94NG_TIN_V%C3%80_TRUY%E1%BB%80N_TH%C3%94NG
+  - paper: 
+    title: "BGV Homormophic Encryption System and Homormophic Encryption Library"
+    authors: me 
+    conference: https://www.academia.edu/33848272/H%E1%BB%87_m%E1%BA%ADt_m%C3%A3_%C4%91%E1%BB%93ng_c%E1%BA%A5u_%C4%91%E1%BA%A7y_%C4%91%E1%BB%A7_BGV_v%C3%A0_th%C6%B0_vi%E1%BB%87n_m%C3%A3_h%C3%B3a_%C4%91%E1%BB%93ng_c%E1%BA%A5u_HELIB

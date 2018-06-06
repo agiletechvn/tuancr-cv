@@ -1,0 +1,15 @@
+intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
+  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+projects:
+  - project:
+    title: Aquaponic Management System
+    link: "https://github.com/p77u4n/webaquapoos"
+    tagline: "A management system for aquaponic farmer, build on React, Node, Express, GraphQL"
+  - project:
+    title: Simple Website Content Management System
+    link: "https://github.com/p77u4n/moitruonghaiviet"
+    tagline: "A simple website content management system to editor blog in small website."
+  - project:
+    title: Homormophic Encryption Sorting 
+    link: "https://github.com/p77u4n/HelibSorting"
+    tagline: "Using HELIB library to demo some scenario of Homormophic applications"
